@@ -1,0 +1,17 @@
+@font-face {
+    font-family: "mi fuente";
+    src: url("../fonts/font.ttf");
+}
+
+@font-face {
+    font-family: "fuente2";
+    src: url("../fonts/Fango.ttf");
+}
+
+.titles{
+    font-family: "mi fuente", "Lucinda Handwriting", cursive;
+}
+
+.text{
+    font-family: "fuente2", "Times New Roman", serif;
+}
